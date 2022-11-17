@@ -22,5 +22,5 @@ else if (number1 < number2)
 }
 else 
 {
-    Console.WriteLine($"введенные значения ранвы");
+    Console.WriteLine($"Введенные значения равны.");
 }
